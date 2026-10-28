@@ -1,0 +1,39 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e2e8f0;                
+    background-color: #0b0f19;      
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#ffd700
+}
+h2, h3 {
+    font-family: 'Georgia', serif;   
+    color: #ffd700;                 
+}
+nav {
+    background-color: #1a2236;      
+}
+nav a {
+    color: #38bdf8;              
+}
+table {
+    background-color: #161f30;
+    color: #f8fafc;
+    border-radius: 8px;
+}
+th {
+    background-color: #243352;
+    color: #ffd700;
+    border-radius: 8px;
+}
+td{
+    border-radius: 4px;
+}
+.Telemetry{
+    color:#39FF14;
+}
